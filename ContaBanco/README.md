@@ -1,18 +1,34 @@
-## Getting Started
+# Projeto ContaBanco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto Java simula a criação de uma conta bancária, recebendo dados do usuário através do terminal e exibindo as informações da conta criada.
 
-## Folder Structure
+## Descrição
 
-The workspace contains two folders by default, where:
+O `ContaBanco` é um programa simples que solicita ao usuário informações como número da agência, número da conta, nome do cliente e saldo inicial. Após receber todos os dados, o programa exibe uma mensagem de boas-vindas com as informações da conta.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Solicita ao usuário os dados da conta bancária:
+    * Número da agência (String)
+    * Número da conta (Inteiro)
+    * Nome do cliente (String)
+    * Saldo inicial (Decimal)
+* Exibe uma mensagem de boas-vindas com os dados da conta criada.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como Executar
 
-## Dependency Management
+1.  **Pré-requisitos:**
+    * Java Development Kit (JDK) instalado no seu computador.
+2.  **Compilação:**
+    * Abra o terminal ou prompt de comando.
+    * Navegue até o diretório onde o arquivo `ContaTerminal.java` está localizado.
+    * Execute o comando: `javac ContaTerminal.java`
+3.  **Execução:**
+    * Execute o comando: `java ContaTerminal`
+4.  **Entrada de Dados:**
+    * O programa solicitará que você insira os dados da conta.
+    * Digite os dados e pressione Enter após cada entrada.
+5.  **Saída:**
+    * O programa exibirá uma mensagem com os dados da conta criada.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Exemplo de Execução

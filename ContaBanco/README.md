@@ -49,6 +49,8 @@ O `ContaBanco` é um programa simples que solicita ao usuário informações com
   
 Olá JULIO SIQUEIRA, obrigado por criar uma conta em nosso banco, sua agência é 010-1, conta 1030 e seu saldo 20.000,00 já está disponível para saque.
 
+## Código
+[Clique aqui](https://github.com/siqueirago/dio-trilha-java-basico/blob/main/ContaBanco/src/ContaTerminal.java)
 ## Autor
 
 * Júlio Siqueira

@@ -10,7 +10,7 @@ O `ContaBanco` é um programa simples que solicita ao usuário informações com
 ## Tecnologias Utilizadas
 * Java
 * VS Code
-* GitHug
+* GitHub
   
 ## Funcionalidades
 * Solicita ao usuário os dados da conta bancária:
@@ -58,3 +58,4 @@ Olá JULIO SIQUEIRA, obrigado por criar uma conta em nosso banco, sua agência �
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+

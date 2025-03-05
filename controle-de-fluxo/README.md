@@ -1,8 +1,8 @@
-Desafio de Controle de Fluxo
+# Desafio de Controle de Fluxo
 
 Este projeto foi desenvolvido como parte do módulo de Controle de Fluxo, seguindo o desafio proposto. O objetivo é criar um sistema que receba dois números inteiros e realize a impressão de uma contagem com base na diferença entre eles.
 
-🚀 Objetivo
+## 🚀 Objetivo
 
 O sistema recebe dois números inteiros do usuário e:
 
@@ -10,7 +10,7 @@ Caso o primeiro número seja menor que o segundo, imprime a contagem incremental
 
 Caso contrário, lança uma exceção personalizada informando que o segundo número deve ser maior que o primeiro.
 
-🛠 Estrutura do Projeto
+## 🛠 Estrutura do Projeto
 
 O projeto contém as seguintes classes:
 
@@ -18,7 +18,7 @@ Contador.java: Classe principal que recebe os números do usuário, valida e exe
 
 ParametrosInvalidosException.java: Classe de exceção personalizada para validar a regra de negócio.
 
-🏗 Como Executar o Projeto
+## 🏗 Como Executar o Projeto
 
 Clone este repositório:
 
@@ -38,7 +38,7 @@ java Contador
 
 Insira os números conforme solicitado e observe o resultado.
 
-📌 Exemplo de Entrada e Saída
+## 📌 Exemplo de Entrada e Saída
 
 ✅ Caso válido:
 
@@ -68,7 +68,7 @@ Saída:
 
 Erro: O segundo parâmetro deve ser maior que o primeiro
 
-📝 Tecnologias Utilizadas
+## 📝 Tecnologias Utilizadas
 
 Java (JDK 8 ou superior)
 
@@ -76,6 +76,6 @@ Scanner para entrada de dados via terminal
 
 Exceções Personalizadas para tratamento de erros
 
-📌 Autor
+## 📌 Autor
 
 Desenvolvido por Julio Siqueira como parte dos estudos na área de Tecnologia.

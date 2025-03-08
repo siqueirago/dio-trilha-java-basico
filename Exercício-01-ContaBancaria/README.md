@@ -2,7 +2,7 @@
 
 ## Descrição do Exercício
 
-Todos os execicios devem ter um menu de interativo para chamar as funções e ter uma opção de sair para finalizar a execução
+O execicio deve ter um menu de interativo para chamar as funções e ter uma opção de sair para finalizar a execução
 
 Escreva um código onde temos uma conta bancaria que possa realizar as seguintes operações:
 * Consultar saldo

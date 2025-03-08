@@ -18,6 +18,7 @@ Este repositório foi criado para armazenar e organizar todos os projetos e exer
 * [Tipos de Variáveis](https://github.com/siqueirago/dio-trilha-java-basico/tree/main/tipos-variaveis)
 * [Projeto Sistema Smart TV](https://github.com/siqueirago/dio-trilha-java-basico/tree/main/sistema-smart-tv)
 * [Projeto Conta Banco](https://github.com/siqueirago/dio-trilha-java-basico/tree/main/ContaBanco)
+* [Projeto Conta Banco](https://github.com/siqueirago/dio-trilha-java-basico/tree/main/ContaBanco)
 
 ## Sobre Mim
 
